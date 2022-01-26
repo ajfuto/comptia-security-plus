@@ -23,7 +23,7 @@ Governance, Risk, and Compliance | 14%
 
 ### 📋 Exam Structure
 * Maximum of 90 questions
-* Questions are multiple-choice and performance-based (using simulations of firewalls, networks diagrams, or operating systems)
+* Questions are multiple-choice and performance-based (using simulations of things like firewalls, networks diagrams, or operating systems)
 * Passing score is **750** (on a scale of 100-900)
 
 ### 📝 Resources
