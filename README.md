@@ -29,13 +29,13 @@ Governance, Risk, and Compliance | 14%
 ### 📝 Resources
 As a college student, I focused on finding ***free*** or inexpensive study material. Here are some of my recommendations.
 * **Training Material**
-	1. [Professor Messer - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) - I ***love*** Professor Messer's videos! I followed him through Network+ and it only felt natural to do so for Security+ as well. His videos are very digestible and are typically 5-10 minutes each. (You can even listen to his lectures in the background while gaming 😉.)
-	2. [NetworkChuck - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB) - NetworkChuck makes very consistently engaging content and his Security+ videos are no different. However, this series is not yet complete and Chuck seems to be taking a hiatus from it...
+	1. [Professor Messer (YouTube)](https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) - I ***love*** Professor Messer's videos! I followed him through Network+ and it only felt natural to do so for Security+ as well. His videos are very digestible and are typically 5-10 minutes each. (You can even listen to his lectures in the background while gaming 😉.)
+	2. [NetworkChuck (YouTube)](https://www.youtube.com/playlist?list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB) - NetworkChuck makes very consistently engaging content and his Security+ videos are no different. However, this series is not yet complete and Chuck seems to be taking a hiatus from it... The videos he has up are still worth watching, though!
 
 * **Practice Questions**
 	1. [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) - ExamCompass provides a ***ton*** of practice questions for Security+. Each of their practice tests seems to have a pretty narrow scope, so be sure to take a handful of them to get a broader coverage of the test.
-	2. [Jason Dion - Udemy](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the test spot on! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower.
+	2. [Jason Dion (Udemy)](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the test spot on! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower.
 
 * **Other**
-	1. [This](https://www.reddit.com/r/CompTIA/comments/ii1yhn/passed_sec_was_so_ez_i_am_beyond_shocked_here_is/) Reddit post - u/phabeon documented his entire Security+ (SYO-501) journey and the resources he found helpful. He passed with **zero prior knowledge/experience in infosec**.
-	2. [Security+ - Quizlet](https://quizlet.com/139927897/security-flash-cards/) - Everyone loves a good Quizlet.
+	1. [This Reddit post](https://www.reddit.com/r/CompTIA/comments/ii1yhn/passed_sec_was_so_ez_i_am_beyond_shocked_here_is/) - u/phabeon documented his entire Security+ (SYO-501) journey and the resources he found helpful. He passed on his first try with **zero prior knowledge or experience in information security**.
+	2. [Flash Cards (Quizlet)](https://quizlet.com/139927897/security-flash-cards/) - Everyone loves a good Quizlet.
