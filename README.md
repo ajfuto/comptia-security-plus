@@ -8,7 +8,7 @@ I'm a junior studying Computer Science at the [University of Central Florida](ht
 CompTIA Security+ is an industry-standard cybersecurity certification for intermediate-level cybersecurity jobs. 
 
 ### 🚶 Certification Path
-Although not required, I previously passed the CompTIA A+ and CompTIA Network+ exams. CompTIA calls this group of exams (plus the IT Fundamentals+ exam) their *Core Skills Certifications*. These certifications prepare professionals for the CompTIA *Infrastructure Pathway* and the *Cybersecurity Pathway*. [[+]](https://www.comptia.org/certifications/which-certification)
+Although not required, I previously passed the CompTIA A+ and CompTIA Network+ exams. CompTIA calls this group of exams (plus the IT Fundamentals+ exam) their *Core Skills Certifications*. These certifications prepare professionals for the CompTIA *Infrastructure Pathway* and *Cybersecurity Pathway*. [[+]](https://www.comptia.org/certifications/which-certification)
 
 ### ✔️ Exam Objectives (Domains)
 CompTIA Security+ focuses on five major cybersecurity domains. Each domain and the measure to which it is represented in the exam are listed as follows: [[+]](https://www.comptia.org/blog/comptia-security-501-vs-601)
