@@ -34,7 +34,7 @@ As a college student, I focused on finding ***free*** or inexpensive study mater
 
 * **Practice Questions**
 	1. [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) - ExamCompass provides a ***ton*** of practice questions for Security+. Each of their practice tests seems to have a pretty narrow scope, so be sure to take a handful of them to get a broader coverage of the test.
-	2. [Jason Dion (Udemy)](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the test spot on! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower.
+	2. [Jason Dion (Udemy)](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the style of questions on the test! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower.
 
 * **Other**
 	1. [This Reddit post](https://www.reddit.com/r/CompTIA/comments/ii1yhn/passed_sec_was_so_ez_i_am_beyond_shocked_here_is/) - u/phabeon documented his entire Security+ (SYO-501) journey and the resources he found helpful. He passed on his first try with **zero prior knowledge or experience in information security**.
