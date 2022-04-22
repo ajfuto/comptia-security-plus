@@ -34,8 +34,22 @@ As a college student, I focused on finding ***free*** or inexpensive study mater
 
 * **Practice Questions**
 	1. [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) - ExamCompass provides a ***ton*** of practice questions for Security+. Each of their practice tests seems to have a pretty narrow scope, so be sure to take a handful of them to get a broader coverage of the test.
-	2. [Jason Dion (Udemy)](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the style of questions on the test! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower.
+	2. [Jason Dion (Udemy)](https://www.udemy.com/course/security-601-exams/) - I took Jason Dion's practice exams before my Network+ exam and felt like he nailed the style of questions on the test! This is the only paid resource on my list, but I would highly recommend it. It's not very expensive (typically $15-$20 on sale), and Jason runs sales frequently that bring the price down even lower. Jason states that getting 90% or higher on his practice exams will set you up for passing the real deal.
 
 * **Other**
 	1. [This Reddit post](https://www.reddit.com/r/CompTIA/comments/ii1yhn/passed_sec_was_so_ez_i_am_beyond_shocked_here_is/) - u/phabeon documented his entire Security+ (SYO-501) journey and the resources he found helpful. He passed on his first try with **zero prior knowledge or experience in information security**.
 	2. [Flash Cards (Quizlet)](https://quizlet.com/139927897/security-flash-cards/) - Everyone loves a good Quizlet.
+	3. [CompTIA Security+ Exam Objectives](https://www.certblaster.com/wp-content/uploads/2020/11/CompTIA-Security-SY0-601-Exam-Objectives-1.0.pdf) - A comprehensive guide of ***all*** the topics that you may be tested on. Published by CompTIA!
+
+### 🏆 *(Update: April 22, 2022)* I passed!
+I passed my Security+ exam earlier this afternoon! Over the past couple weeks, I really focused on Jason Dion's practice tests. I took each test, reviewed the answers I got wrong, and watched the corresponding Professor Messer videos for those objectives.
+
+*Some stats:*
+* **Scores for Dion's practice tests (in order):** 72%, 82%, 80%, 80%, 85%, 84%
+* **My score on the exam:** 787/900 *(minimum passing is 750)*
+
+### 💭 Some afterthoughts...
+* I regret not brushing up on the acronyms before the exam. There are ***a lot*** so be sure to know them all! (A full list can be seen at the end of the [CompTIA Security+ Exam Objectives](https://www.certblaster.com/wp-content/uploads/2020/11/CompTIA-Security-SY0-601-Exam-Objectives-1.0.pdf).)
+* Make sure to allocate enough time to do the PBQs. They can be a little on the longer side and just wrapping your head around what each question is asking may take a few minutes.
+* I feel I may have cut it a little close. If you're taking Dion's practice tests, aim for consistently getting above an 85% to be comfortable for the exam room.
+* Overall, the exam was very fair. Manage your time carefully, brush up on the Exam Objectives, take practice tests and you **will** pass! Best of luck!
